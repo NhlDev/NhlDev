@@ -7,4 +7,4 @@
 
 #### Puedes encontrarme en:
 - [LinkedIn](https://www.linkedin.com/in/nahuel-alderete/)
-- [Mail](mailto:nahuel.ald@gmail.com)
+- [E-mail](mailto:nahuel.ald@gmail.com)
