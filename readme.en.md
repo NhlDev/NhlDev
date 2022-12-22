@@ -8,4 +8,4 @@
 #### You can find me in:
 - [LinkedIn](https://www.linkedin.com/in/nahuel-alderete/)
 - [E-Mail](mailto:nahuel.ald@gmail.com)
-- [Nahuel.app](https://nahuel.app)
+- [Nahuel.app](https://nahuel.app/en)
