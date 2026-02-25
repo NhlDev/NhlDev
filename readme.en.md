@@ -9,3 +9,4 @@
 - [LinkedIn](https://www.linkedin.com/in/nahuel-alderete/)
 - [E-Mail](mailto:nahuel.ald@gmail.com)
 - [Nahuel.app](https://nahuel.app/en)
+- [Control Up!](https://controlup.com.ar)
