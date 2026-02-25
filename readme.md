@@ -9,5 +9,6 @@
 - [LinkedIn](https://www.linkedin.com/in/nahuel-alderete/)
 - [E-mail](mailto:nahuel.ald@gmail.com)
 - [Nahuel.app](https://nahuel.app)
+- [Control Up!](https://controlup.com.ar)
 
 ##### [English Here](https://github.com/NhlDev/NhlDev/blob/main/readme.en.md)
