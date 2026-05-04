@@ -30,7 +30,6 @@ Este es un proyecto desarrollado en conjunto con mi socio [Manuel Colque](https:
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NhlDev&show_icons=true&theme=radical" alt="Estadísticas de Nahuel" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhlDev&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
