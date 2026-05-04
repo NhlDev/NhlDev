@@ -30,7 +30,6 @@ This project is being developed in collaboration with my partner [Manuel Colque]
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NhlDev&show_icons=true&theme=radical" alt="Nahuel's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhlDev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
