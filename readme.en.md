@@ -1,4 +1,5 @@
 <div align="center">
+
 # Hi there, I'm Nahuel Alderete 👋
  
 ### 🇦🇷 Senior Full-Stack Developer · Buenos Aires, Argentina
@@ -70,6 +71,7 @@ My personal portfolio and dev blog.
 ---
  
 <div align="center">
+
 ##### 🌎 [Ver versión en Español](https://github.com/NhlDev/NhlDev/blob/main/README.md)
  
 </div>

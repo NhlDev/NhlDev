@@ -1,4 +1,4 @@
-<div align="center">
+
 # ¡Hola, soy Nahuel Alderete! 👋
  
 ### 🇦🇷 Senior Full-Stack Developer · Buenos Aires, Argentina
@@ -8,8 +8,7 @@ Soy desarrollador full-stack con **más de 10 años de experiencia** convirtiend
 [![Portfolio](https://img.shields.io/badge/Portfolio-nahuel.app-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nahuel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-alderete/)
 [![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuel.ald@gmail.com)
- 
-</div>
+
 ---
  
 ## 🛠️ Stack Tecnológico
@@ -57,6 +56,7 @@ Mi portfolio personal y blog de desarrollo.
 <p align="center">
   <img src="https://github.com/NhlDev/NhlDev/blob/main/github-metrics.svg" alt="Lenguajes más usados" />
 </p>
+
 <!-- Generado por una GitHub Action propia (lowlighter/metrics), ver
      .github/workflows/metrics.yml — sin depender de un servicio compartido con rate limit. -->
  
@@ -69,8 +69,5 @@ Mi portfolio personal y blog de desarrollo.
 * **Email:** [nahuel.ald@gmail.com](mailto:nahuel.ald@gmail.com)
 ---
  
-<div align="center">
 ##### 🌎 [Read in English](https://github.com/NhlDev/NhlDev/blob/main/readme.en.md)
- 
-</div>
  
