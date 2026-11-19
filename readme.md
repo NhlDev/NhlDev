@@ -41,7 +41,7 @@ Sistema de gestión comercial para Pymes y comercios argentinos: punto de venta,
  
 `Angular` · `.NET` · `SQL Server`
  
-### 🤖 [Chatbot Up](https://chatbot.controlup.com.ar)
+### 🤖 [Chatbot Up](https://chatbotup.com.ar)
 Asistentes con IA entrenados con la información *real* de cada negocio (RAG) que atienden clientes en WhatsApp, Instagram, Telegram y la web — 24/7, derivando la conversación a una persona cuando hace falta. Un producto construido sobre Control Up.
  
 `.NET` · `Semantic Kernel` · `PostgreSQL` + `pgvector` · `Angular` · `n8n`
