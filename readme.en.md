@@ -43,7 +43,7 @@ A business-management SaaS built for small and medium businesses in Argentina �
  
 `Angular` · `.NET` · `SQL Server`
  
-### 🤖 [Chatbot Up](https://chatbot.controlup.com.ar)
+### 🤖 [Chatbot Up](https://chatbotup.com.ar)
 AI assistants trained on a business's *own* data (RAG) that answer customers on WhatsApp, Instagram, Telegram and the web — 24/7, handing the conversation off to a human whenever it's needed. A product built on top of Control Up.
  
 `.NET` · `Semantic Kernel` · `PostgreSQL` + `pgvector` · `Angular` · `n8n`
